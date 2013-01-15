@@ -1,0 +1,10 @@
+russ:
+  address: 7328039988@vtext.com
+  interval: 30
+  courses:
+    640:
+      44746: histo math
+      45890: crypto
+      46285: topics applied algeb
+    198:
+      53684: comp sec
